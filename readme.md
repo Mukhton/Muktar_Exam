@@ -131,7 +131,7 @@ Imagine you are part of a startup team tasked with creating a prototype for a we
 ### **Public IP Address or URL**
 - Access your landing page using the following URL:
   ```
-  http://18.193.74.202
+  http://63.177.108.148
   ```
 
 ### **Screenshot**
